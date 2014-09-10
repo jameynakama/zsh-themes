@@ -11,3 +11,5 @@ ZSH_THEME environment variable to the name of the thing, without the extension. 
     $ echo 'ZSH_THEME="rainbow-summer"' >> ~/.zshrc
     $ source ~/.zshrc
     $ echo "<3 <3 <3 HOLY COW <3 <3 <3"
+
+![rainbow-summer](https://github.com/jameydeorio/zsh-themes/raw/master/screenshots/rainbow-summer.png)
