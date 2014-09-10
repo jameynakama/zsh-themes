@@ -10,4 +10,4 @@ ZSH_THEME environment variable to the name of the thing, without the extension. 
     $ cp rainbow-summer.zsh-theme $ZSH/themes
     $ echo 'ZSH_THEME="rainbow-summer"' >> ~/.zshrc
     $ source ~/.zshrc
-    $ echo "My daily life just got a lot nicer!"
+    $ echo "<3 <3 <3 HOLY COW <3 <3 <3"
